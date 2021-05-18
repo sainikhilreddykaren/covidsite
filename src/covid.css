@@ -1,0 +1,25 @@
+.card{
+    border: 2px solid black;
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    padding: 8px;
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    list-style-type: none;
+    background-color: green;
+   color: white;
+   box-shadow: 5px 10px gray;
+   border-radius: 12px;
+}
+.card:hover{
+    background-color: lightgreen;
+}
+.flex-box{
+    display:flex;
+}
+.center{
+    text-align: center;
+    color: white;
+}
